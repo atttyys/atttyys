@@ -18,4 +18,4 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 #### My STATS ✨
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttyys_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttyys&size_weight=0.5&count_weight=0.5)
