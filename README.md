@@ -12,4 +12,4 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 - **Version Control and Collaboration Tools**: Proficient in using GitHub, ChatGPT, Git, Node.js, and Arduino for efficient project management and collaboration.
 - **Industrial Automation**: Knowledgeable in using PyModbus for PLC (Modbus Slave/Poll).
 
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) ![pytorch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
