@@ -16,6 +16,6 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 - **Industrial Automation**: Knowledgeable in using PyModbus for PLC (Modbus Slave/Poll).
 
 #### My STATS ✨
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/atttyys/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/atttyys/github-readme-stats)
