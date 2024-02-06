@@ -3,6 +3,9 @@
 
 I am passionate about leveraging cutting-edge technologies to solve real-world problems. With a strong background in software development and data engineering, I specialize in the following areas:
 
+#### My SKILL ✨
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,go,py,pytorch,kotlin,java,flutter,bootstrap,cpp,cloudflare,dart,docker,fastapi,firebase,flask,nodejs,php,postman,powershell,react,stackoverflow,tensorflow,vscode,mysql,mongodb,linux,bash,arduino,anaconda)](https://skillicons.dev)
+
 - **Artificial Intelligence and Machine Learning**: Experienced in AI, particularly in Fine-Tuning Parameters and Format Data Types, using frameworks like Pytorch.
 - **Development Environments**: Proficient in Anaconda, Docker, Jupyter, and Google Colab.
 - **Cloud Technologies**: Skilled in using Firebase, AWS, and Cloudflare for scalable, cloud-based solutions.
@@ -12,4 +15,5 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 - **Version Control and Collaboration Tools**: Proficient in using GitHub, ChatGPT, Git, Node.js, and Arduino for efficient project management and collaboration.
 - **Industrial Automation**: Knowledgeable in using PyModbus for PLC (Modbus Slave/Poll).
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+#### My STATS ✨
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
