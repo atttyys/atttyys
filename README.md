@@ -1,8 +1,8 @@
 ## Hi There Everybody 👋
+---
 ### My name is Mr. Chollathit Saensaradee ✨
-
 I am passionate about leveraging cutting-edge technologies to solve real-world problems. With a strong background in software development and data engineering, I specialize in the following areas:
-
+---
 ### My SKILL ✨
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,go,py,pytorch,kotlin,java,flutter,bootstrap,cpp,cloudflare,dart,docker,fastapi,firebase,flask,nodejs,php,postman,powershell,react,stackoverflow,tensorflow,vscode,mysql,mongodb,linux,bash,arduino,anaconda)](https://skillicons.dev)
 
@@ -14,8 +14,10 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 - **Database Management**: Well-versed in SQL, SQLite, Postman, and MariaDB, with a strong understanding of API integrations.
 - **Version Control and Collaboration Tools**: Proficient in using GitHub, ChatGPT, Git, Node.js, and Arduino for efficient project management and collaboration.
 - **Industrial Automation**: Knowledgeable in using PyModbus for PLC (Modbus Slave/Poll).
-
+  
 ### My STATS ✨
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttyys&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
