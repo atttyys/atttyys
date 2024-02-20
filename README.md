@@ -22,6 +22,5 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 ---
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react,arduino,postman,cloudflare)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react,arduino,postman,cloudflare,github,vscode,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,cpp,c,mysql,css,html)](https://skillicons.dev)
