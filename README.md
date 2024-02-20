@@ -20,3 +20,8 @@ I am passionate about leveraging cutting-edge technologies to solve real-world p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttyys&theme=dark)](https://github.com/atttyys)
 
 ---
+
+
+[![My Skills](https://skillicons.dev/icons?i=docker,react,arduino,postman,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,cpp,c,mysql,css,html)](https://skillicons.dev)
