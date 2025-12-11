@@ -1,26 +1,7 @@
-## Hi There Everybody 👋
-### My name is Mr. Chollathit Saensaradee ✨
-I am passionate about leveraging cutting-edge technologies to solve real-world problems. With a strong background in software development and data engineering, I specialize in the following areas:
----
-### SKILL ✨
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,go,py,pytorch,kotlin,java,flutter,bootstrap,cpp,cloudflare,dart,docker,fastapi,firebase,flask,nodejs,php,postman,powershell,react,stackoverflow,tensorflow,vscode,mysql,mongodb,linux,bash,arduino,anaconda)](https://skillicons.dev)
+# 👑 Chollathit Saensaradee: The Digital Architect
 
-- **Artificial Intelligence and Machine Learning**: Experienced in AI, particularly in Fine-Tuning Parameters and Format Data Types, using frameworks like Pytorch.
-- **Development Environments**: Proficient in Anaconda, Docker, Jupyter, and Google Colab.
-- **Cloud Technologies**: Skilled in using Firebase, AWS, and Cloudflare for scalable, cloud-based solutions.
-- **Programming Languages**: Proficient in Python, Go, C++, JavaScript, HTML, and CSS.
-- **Web and App Development**: Experienced in React.js, Next.js, Flutter, and Android Studio for creating responsive and user-friendly applications.
-- **Database Management**: Well-versed in SQL, SQLite, Postman, and MariaDB, with a strong understanding of API integrations.
-- **Version Control and Collaboration Tools**: Proficient in using GitHub, ChatGPT, Git, Node.js, and Arduino for efficient project management and collaboration.
-- **Industrial Automation**: Knowledgeable in using PyModbus for PLC (Modbus Slave/Poll).
-  
-### STATS ✨
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttyys&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/atttyys)
+ผมคือ **วิศวกรผู้สร้าง** ที่เชี่ยวชาญในการเปลี่ยนแนวคิดทางเทคโนโลยีให้เป็นระบบที่ใช้งานได้จริงและมีประสิทธิภาพสูงสุด ความเชี่ยวชาญของผมครอบคลุมตั้งแต่การออกแบบสถาปัตยกรรม **ปัญญาประดิษฐ์และ Machine Learning** ที่เน้นการปรับแต่งและประสิทธิภาพ, การพัฒนาซอฟต์แวร์ประมวลผลสูง, ไปจนถึงการวางโครงสร้างพื้นฐานดิจิทัลที่ปรับขนาดได้และทนทาน ผมมุ่งเน้นการสร้างสรรค์โซลูชันที่กำหนดมาตรฐานใหม่ และใช้ความแม่นยำทางวิศวกรรมในการแก้ไขปัญหาที่ซับซ้อนเสมอ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttyys&theme=dark)](https://github.com/atttyys)
+ในฐานะ **ผู้ก่อตั้ง Battle Lab Technologies Co., Ltd.** เราคือขุมกำลังเทคโนโลยีก้าวหน้าที่ส่งมอบนวัตกรรมครบวงจร ผมเป็นผู้นำในการขับเคลื่อนธุรกิจสู่ความเป็นผู้นำดิจิทัลในด้าน **AI/การวิเคราะห์ข้อมูล, บล็อกเชน/Web 3.0, ระบบอัตโนมัติ/IoT** และการวางโครงสร้างพื้นฐานดิจิทัลขั้นสูง ภารกิจของเราคือการสร้างความได้เปรียบเชิงกลยุทธ์ให้กับคู่ค้าด้วยการ **สร้างอนาคต ไม่ใช่แค่คาดการณ์มัน** เราเน้นการส่งมอบผลลัพธ์ที่เด็ดขาดและมีวิสัยทัศน์ที่มั่นคง
 
----
-
-
-[![My Skills](https://skillicons.dev/icons?i=docker,react,arduino,postman,cloudflare,github,vscode,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,cpp,c,mysql,css,html)](https://skillicons.dev)
+การทำงานของผมถูกชี้นำด้วย **ปรัชญาที่เด็ดขาดและวิสัยทัศน์ที่มั่นคง** โดยเริ่มจากหลักการ: **The Why? The Where? The How?** ต้องชัดเจนก่อนลงมือทำ จากนั้นจึง **Eliminate Complexity** เพื่อให้ได้ประสิทธิภาพสูงสุด และใช้ **Elite Tech Force** เท่านั้น ผมมุ่งแก้ไขปัญหาที่ต้นตอด้วย **Root Cause Focus** เพื่อสร้างการเปลี่ยนแปลงที่ยั่งยืน พร้อมทั้งสร้างพันธมิตรที่แข็งแกร่งผ่าน **Generous Tit for Tat** ปัจจุบัน ผมกำลังมุ่งเน้นการขยายขีดความสามารถด้าน AI เพื่อประยุกต์ใช้ในสเกลอุตสาหกรรม **ติดต่อเพื่อสร้างพันธมิตรทางเทคโนโลยีที่ขับเคลื่อนด้วยผลลัพธ์**
