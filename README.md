@@ -1,85 +1,49 @@
-# Industrial IoT Data Platform
+# Chollathit Saensaradee
 
-A backend system for collecting and managing real-time sensor data used in industrial and environmental monitoring.
-
----
-
-## What This Project Is
-
-This project is a backend system that receives data from sensors, processes it in real time, and stores it safely so it can be monitored and analyzed later.
-
-It is designed for situations where:
-- Data is continuously coming from many devices
-- Network connections may be unstable
-- The system must keep working even when some parts fail
+Backend / Data Engineer
 
 ---
 
-## Why This Project Matters
+## What I Work On
 
-In real-world environments, systems do not always work perfectly.  
-This project focuses on keeping data **reliable, consistent, and available**, even when issues occur.
-
-The goal is to ensure that users and operations teams can:
-- Trust the data they see
-- Monitor conditions in real time
-- Review historical data when needed
-
----
-
-## What I Worked On
-
-In this project, I focused mainly on:
-
-- Designing how data flows from sensors to storage
-- Building backend services that can handle continuous data input
-- Handling failure scenarios without losing important data
-- Making practical trade-offs between performance, complexity, and cost
-- Improving system stability based on real usage
+- Designing backend systems that handle continuous data flow
+- Building reliable data ingestion and processing pipelines
+- Working with real-time data and event-driven systems
+- Handling system failures, retries, and data consistency
+- Making technical trade-offs between reliability, performance, and complexity
+- Improving system stability through iteration and observation
 
 ---
 
-## How the System Works (Simplified)
+## Areas of Experience
 
-Sensors → Backend Services → Databases → Monitoring & Analysis
-
-
-Sensor data is received in real time, temporarily buffered when necessary, and then stored in appropriate databases for both real-time viewing and historical analysis.
-
----
-
-## Technologies Used (High-Level)
-
-- Backend programming using Python and Go
-- Databases for structured and time-based data
-- Messaging systems for real-time data transfer
-- Container-based deployment for consistency and reliability
-
-(Technical details are available in other documentation within this repository.)
+- Backend and API development
+- Data platforms and data pipelines
+- Real-time and streaming systems
+- IoT and sensor data processing
+- Production system reliability
 
 ---
 
-## What This Project Demonstrates
+## Tools & Technologies
 
-This project reflects how I approach engineering work:
-
-- I focus on building systems that work reliably in production
-- I prioritize clarity and maintainability over unnecessary complexity
-- I am comfortable working with unclear requirements and refining solutions over time
-- I collaborate with others to improve systems based on feedback
+- Python, Go, SQL
+- REST APIs, messaging systems
+- Relational and time-series databases
+- Containerized environments
 
 ---
 
-## Project Status
+## Approach
 
-The system is actively maintained and improved, with an emphasis on stability and real-world usability.
+- Prefer simple, explicit system design
+- Design for failure, not just happy paths
+- Keep systems maintainable over time
+- Focus on practical outcomes over novelty
 
 ---
 
-## Author
-
-**Chollathit Saensaradee**  
-Backend / Data Engineer  
+## Contact
 
 GitHub: https://github.com/atttys  
 Email: mrchontis.s@gmail.com
