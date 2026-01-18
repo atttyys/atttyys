@@ -1,22 +1,85 @@
-# 👑 Chollathit Saensaradee: The Digital Architect
----
+# Industrial IoT Data Platform
 
-## หลักการและวิสัยทัศน์ (Thai Version)
-
-ผมคือ **วิศวกรผู้สร้าง** ที่เชี่ยวชาญในการเปลี่ยนแนวคิดทางเทคโนโลยีให้เป็นระบบที่ใช้งานได้จริงและมีประสิทธิภาพสูงสุด ความเชี่ยวชาญของผมครอบคลุมตั้งแต่การออกแบบสถาปัตยกรรม **ปัญญาประดิษฐ์และ Machine Learning** ที่เน้นการปรับแต่งและประสิทธิภาพ, การพัฒนาซอฟต์แวร์ประมวลผลสูง, ไปจนถึงการวางโครงสร้างพื้นฐานดิจิทัลที่ปรับขนาดได้และทนทาน ผมมุ่งเน้นการสร้างสรรค์โซลูชันที่กำหนดมาตรฐานใหม่ และใช้ความแม่นยำทางวิศวกรรมในการแก้ไขปัญหาที่ซับซ้อนเสมอ
-
-ในฐานะ **ผู้ก่อตั้ง Battle Lab Technologies Co., Ltd.** เราคือขุมกำลังเทคโนโลยีก้าวหน้าที่ส่งมอบนวัตกรรมครบวงจร ผมเป็นผู้นำในการขับเคลื่อนธุรกิจสู่ความเป็นผู้นำดิจิทัลในด้าน **AI/การวิเคราะห์ข้อมูล, บล็อกเชน/Web 3.0, ระบบอัตโนมัติ/IoT** และการวางโครงสร้างพื้นฐานดิจิทัลขั้นสูง ภารกิจของเราคือการสร้างความได้เปรียบเชิงกลยุทธ์ให้กับคู่ค้าด้วยการ **สร้างอนาคต ไม่ใช่แค่คาดการณ์มัน** เราเน้นการส่งมอบผลลัพธ์ที่เด็ดขาดและมีวิสัยทัศน์ที่มั่นคง
-
-การทำงานของผมถูกชี้นำด้วย **ปรัชญาที่เด็ดขาดและวิสัยทัศน์ที่มั่นคง** โดยเริ่มจากหลักการ: **The Why? The Where? The How?** ต้องชัดเจนก่อนลงมือทำ จากนั้นจึง **Eliminate Complexity** เพื่อให้ได้ประสิทธิภาพสูงสุด และใช้ **Elite Tech Force** เท่านั้น ผมมุ่งแก้ไขปัญหาที่ต้นตอด้วย **Root Cause Focus** เพื่อสร้างการเปลี่ยนแปลงที่ยั่งยืน พร้อมทั้งสร้างพันธมิตรที่แข็งแกร่งผ่าน **Generous Tit for Tat** ปัจจุบัน ผมกำลังมุ่งเน้นการขยายขีดความสามารถด้าน AI เพื่อประยุกต์ใช้ในสเกลอุตสาหกรรม **ติดต่อเพื่อสร้างพันธมิตรทางเทคโนโลยีที่ขับเคลื่อนด้วยผลลัพธ์**
+A backend system for collecting and managing real-time sensor data used in industrial and environmental monitoring.
 
 ---
-***
+
+## What This Project Is
+
+This project is a backend system that receives data from sensors, processes it in real time, and stores it safely so it can be monitored and analyzed later.
+
+It is designed for situations where:
+- Data is continuously coming from many devices
+- Network connections may be unstable
+- The system must keep working even when some parts fail
+
 ---
 
-## Philosophy and Vision (English Version)
+## Why This Project Matters
 
-I am an **Engineer and Builder** specializing in transforming strategic concepts into high-efficiency, functional technological systems. My expertise spans architecting performance-driven **Artificial Intelligence and Machine Learning** solutions, executing robust high-throughput software development, and designing scalable, resilient digital infrastructure. My core mandate is to define new standards through rigorous engineering precision and to consistently deliver definitive solutions to complex challenges.
+In real-world environments, systems do not always work perfectly.  
+This project focuses on keeping data **reliable, consistent, and available**, even when issues occur.
 
-As the **Founder of Battle Lab Technologies Co., Ltd.**, I lead a cutting-edge technology powerhouse that delivers full-spectrum innovation. We drive businesses toward digital leadership across **AI/Data Analytics, Blockchain/Web 3.0, Automation/IoT**, and advanced digital infrastructure provisioning. Our mission is to secure strategic advantages for our partners by **creating the future—not merely anticipating it.** Our focus remains strictly on delivering decisive results with uncompromising vision.
+The goal is to ensure that users and operations teams can:
+- Trust the data they see
+- Monitor conditions in real time
+- Review historical data when needed
 
-My work is governed by a **Decisive Philosophy and Unwavering Vision**. Every undertaking is initiated by the clear principles of: **The Why? The Where? The How?** I am committed to **Eliminate Complexity** for maximum efficacy, utilizing only an **Elite Tech Force**. I address root issues with a **Root Cause Focus** to ensure permanent and sustainable change, fostering strong alliances through a **Generous Tit for Tat** approach. I am currently dedicated to scaling AI capabilities for large-scale industrial deployment. **Let's connect to forge technology partnerships driven by tangible results.**
+---
+
+## What I Worked On
+
+In this project, I focused mainly on:
+
+- Designing how data flows from sensors to storage
+- Building backend services that can handle continuous data input
+- Handling failure scenarios without losing important data
+- Making practical trade-offs between performance, complexity, and cost
+- Improving system stability based on real usage
+
+---
+
+## How the System Works (Simplified)
+
+Sensors → Backend Services → Databases → Monitoring & Analysis
+
+
+Sensor data is received in real time, temporarily buffered when necessary, and then stored in appropriate databases for both real-time viewing and historical analysis.
+
+---
+
+## Technologies Used (High-Level)
+
+- Backend programming using Python and Go
+- Databases for structured and time-based data
+- Messaging systems for real-time data transfer
+- Container-based deployment for consistency and reliability
+
+(Technical details are available in other documentation within this repository.)
+
+---
+
+## What This Project Demonstrates
+
+This project reflects how I approach engineering work:
+
+- I focus on building systems that work reliably in production
+- I prioritize clarity and maintainability over unnecessary complexity
+- I am comfortable working with unclear requirements and refining solutions over time
+- I collaborate with others to improve systems based on feedback
+
+---
+
+## Project Status
+
+The system is actively maintained and improved, with an emphasis on stability and real-world usability.
+
+---
+
+## Author
+
+**Chollathit Saensaradee**  
+Backend / Data Engineer  
+
+GitHub: https://github.com/atttys  
+Email: mrchontis.s@gmail.com
