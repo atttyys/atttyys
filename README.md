@@ -42,6 +42,4 @@ I focus on building systems that are simple, maintainable, and able to handle fa
 ---
 
 ## Contact
-
-GitHub: https://github.com/atttys  
 Email: mrchontis.s@gmail.com
